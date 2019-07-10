@@ -10,3 +10,5 @@ Initial Questions?
 6.	Can the wines be classified into the famous types?
 7.	Which are the best wineries?
 8.	Which are the most reviewed varieties?
+
+![image](https://user-images.githubusercontent.com/46936497/61011223-9a7c9a80-a371-11e9-91dc-feb5d33bedac.png)
